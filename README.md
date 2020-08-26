@@ -5,4 +5,4 @@ These functions are also employed to establish equivalence between various logic
 
 ## Action Items
 
-* __Complete__: The exercises described in `Challenge.ipynb`.
+* __Complete__: The exercises described in `challenge.ipynb`.
